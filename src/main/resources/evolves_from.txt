@@ -1,0 +1,12 @@
+BASIC
+Electabuzz
+80
+LIGHTNING
+-
+L / Thunder Wave / 0,LC / Head Bolt / 30
+FIRE
+-
+2C
+Sword & Shield—Brilliant Stars
+F
+src/main/resources/evolves_from.txt
