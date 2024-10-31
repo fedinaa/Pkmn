@@ -1,0 +1,12 @@
+STAGE1
+Electivire
+140
+LIGHTNING
+src/main/resources/evolves_from.txt
+L / Explosive Bolt / 30,2L1C / High-Voltage Current / 0
+FIRE
+-
+3C
+Sword & Shield—Brilliant Stars
+F
+Федина / Дарья / Витальевна / БСБО-06-23

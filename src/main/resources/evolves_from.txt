@@ -9,4 +9,4 @@ FIRE
 2C
 Sword & Shield—Brilliant Stars
 F
-src/main/resources/evolves_from.txt
+
